@@ -1,0 +1,194 @@
+{
+    "coffee": [
+        "The campus coffee bar is open from 8 AM to 6 PM.",
+        "You can grab a coffee at the student union from 8 AM to 6 PM."
+    ],
+    "library": [
+        "The library is open from 9 AM to 9 PM on weekdays.",
+        "You can visit the library anytime between 9 AM and 9 PM."
+    ],
+    "admissions": [
+        "Admissions office hours are 9 AM to 5 PM, Monday to Friday.",
+        "Feel free to contact admissions via email at admissions@poppleton.edu."
+    ],
+    "courses": [
+        "You can find the course catalog on our website.",
+        "Please check the academic programs page for course details."
+    ],
+    "random responses": [
+        "I'm not sure about that. Can you rephrase?",
+        "Could you provide more details?",
+        "Sorry, I don't have information on that.",
+        "Let me look into that for you!"
+    ],
+    
+    "housing": [
+        "On-campus housing is available. Check our website for more details.",
+        "Our dormitories are available for students, with a variety of room options."
+    ],
+    "scholarships": [
+        "There are various scholarships available. Please visit our scholarship page for more information.",
+        "You can apply for scholarships directly through the admissions portal."
+    ],
+    "tuition": [
+        "Tuition fees vary based on the program. You can find detailed information on our website.",
+        "Please check the tuition section on the university's website for current fees."
+    ],
+    "sports": [
+        "We offer a wide range of sports activities. Check out the athletics page for schedules.",
+        "Our university has excellent sports facilities, including a gym and outdoor courts."
+    ],
+    "orientation": [
+        "Orientation for new students begins at the start of the fall semester.",
+        "Be sure to attend our orientation week to get familiar with campus life."
+    ],
+    "cafeteria": [
+        "The cafeteria offers a variety of meals. It's open from 7 AM to 7 PM daily.",
+        "You can find a wide range of food options in the campus cafeteria."
+    ],
+    "student clubs": [
+        "We have numerous student clubs, from academic to recreational. Visit the student life page for details.",
+        "Check out the student clubs fair at the start of the semester to find the perfect club for you."
+    ],
+    "transportation": [
+        "Public transportation is easily accessible from campus. You can find schedules on our website.",
+        "We offer shuttle services to nearby areas, available from 8 AM to 9 PM."
+    ],
+    "computers": [
+        "We have computer labs available on campus for student use. Check the schedule for availability.",
+        "You can access the computer labs in the library during working hours."
+    ],
+    "events": [
+        "There are regular events on campus. Be sure to check our event calendar for the latest updates.",
+        "We host various events throughout the semester, including guest lectures and student performances."
+    ],
+    "job opportunities": [
+        "There are job opportunities on campus, including work-study positions. Check with the career center.",
+        "Visit the student employment section on our website to find available positions."
+    ],
+    "wellness": [
+        "Our student wellness center provides counseling services and health advice. Visit the health center for more details.",
+        "The wellness center offers support for mental health and general well-being. It's open from 9 AM to 5 PM."
+    ],
+    "international students": [
+        "We offer support for international students, including visa and immigration assistance.",
+        "International students can find more information on our website regarding admissions and services."
+    ],
+    "careers": [
+        "We offer career counseling and job placement assistance for students. Visit the career center for more details.",
+        "Our career services help students with resume writing, interviews, and finding job opportunities."
+    ],
+    "technology": [
+        "We offer various tech-related courses. You can find the list of programs on our website.",
+        "Our campus is equipped with the latest technology to support student learning."
+    ],
+    "library resources": [
+        "The library has a vast collection of books and digital resources. You can access them through our online portal.",
+        "The library also offers study rooms and research support services. Visit the library website for details."
+    ],
+    "graduation": [
+        "Graduation ceremonies are held every year in May. Check the academic calendar for important dates.",
+        "To graduate, ensure all course requirements are met. Please consult with your academic advisor."
+    ],
+    "health services": [
+        "Our health center offers medical services including check-ups, vaccinations, and first aid.",
+        "You can book an appointment with a doctor at the health center for non-emergency medical issues."
+    ],
+    
+        "parking": [
+            "Parking permits can be purchased online through the campus portal.",
+            "Visitor parking is available near the main entrance. Check signs for hourly rates."
+        ],
+        "financial aid": [
+            "Financial aid applications are open. Visit our financial aid office for guidance.",
+            "You can apply for grants, loans, and scholarships through the financial aid portal."
+        ],
+        "labs": [
+            "Science labs are open from 8 AM to 8 PM. Be sure to book a slot in advance.",
+            "Our computer and engineering labs are equipped with the latest tools for students."
+        ],
+        "fitness": [
+            "The campus gym is open from 6 AM to 10 PM daily, offering fitness classes and equipment.",
+            "We offer yoga, pilates, and Zumba classes at the recreation center. Check the schedule for timings."
+        ],
+        "study tips": [
+            "Plan your study sessions and take breaks to improve retention.",
+            "Group study sessions can be effective. Consider forming a study group with peers."
+        ],
+        "volunteering": [
+            "There are several volunteering opportunities on campus. Check the student activities office.",
+            "Participate in community service events organized by our student organizations."
+        ],
+        "academic calendar": [
+            "You can find the academic calendar on the university's website under 'Important Dates'.",
+            "The academic calendar includes holidays, exam schedules, and semester start/end dates."
+        ],
+        "research": [
+            "Our university provides resources for academic research. Visit the research office for assistance.",
+            "You can access research papers and journals through the library's digital portal."
+        ],
+        "campus security": [
+            "Campus security is available 24/7. Dial the campus security hotline in case of emergencies.",
+            "We have security personnel patrolling the campus for your safety. Report issues at the security office."
+        ],
+        "alumni network": [
+            "Our alumni network connects you with graduates worldwide. Join the alumni association for updates.",
+            "Alumni events are held annually to foster networking opportunities and community engagement."
+        ],
+        "internships": [
+            "Our career center helps students find internships. Check the internship portal for available positions.",
+            "Speak to your academic advisor about internships related to your major."
+        ],
+        "bookstore": [
+            "The campus bookstore offers textbooks, supplies, and university merchandise.",
+            "You can purchase or rent textbooks from the bookstore, open from 9 AM to 6 PM."
+        ],
+        "grading": [
+            "Grades are accessible through the student portal after the semester ends.",
+            "If you have questions about grades, contact your professor or the registrar's office."
+        ],
+        "travel": [
+            "Study abroad programs are available. Visit the international office for more information.",
+            "We have partnerships with universities worldwide for exchange programs."
+        ],
+        "networking": [
+            "Attend workshops and events to network with professionals in your field.",
+            "Join LinkedIn groups related to your career interests for virtual networking opportunities."
+        ],
+        "class schedules": [
+            "Class schedules are available on the student portal. Check your timetable before the semester starts.",
+            "Any changes to your class schedule will be updated in the portal."
+        ],
+        "student rights": [
+            "The student handbook outlines your rights and responsibilities. Find it on the university website.",
+            "If you have concerns, contact the student services office for support."
+        ],
+        "mental health": [
+            "Our counseling services are free for students. Visit the wellness center for mental health support.",
+            "You can attend stress management workshops organized by the health center."
+        ],
+        "faculty": [
+            "You can find faculty profiles and contact information on the university's website.",
+            "Schedule appointments with professors during their office hours for academic support."
+        ],
+        "lost and found": [
+            "Lost items can be reported to the campus security office.",
+            "Check the lost and found section at the student union for misplaced belongings."
+        ],
+        "weather": [
+            "The campus weather app provides real-time updates for local conditions.",
+            "Be prepared for seasonal changes; bring appropriate clothing for rain or snow."
+        ],
+        "student discounts": [
+            "Your student ID provides discounts at local shops and restaurants.",
+            "Check the student union website for a list of discounts available to students."
+        ],
+        "extracurriculars": [
+            "Join a club or society to explore your interests outside academics.",
+            "Extracurricular activities are a great way to meet new people and develop skills."
+        ]
+    }
+    
+
+
+
